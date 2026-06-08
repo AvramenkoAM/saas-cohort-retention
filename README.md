@@ -1,6 +1,8 @@
 # SaaS Cohort Retention Analysis
 
-Portfolio data analytics project demonstrating SaaS retention metrics: cohort heatmaps, Net Revenue Retention (NRR), MRR waterfall, and churn analysis by plan tier and acquisition channel.
+Portfolio data analytics project demonstrating SaaS retention metrics:
+
+![SaaS Retention Dashboard](images/dashboard.png) cohort heatmaps, Net Revenue Retention (NRR), MRR waterfall, and churn analysis by plan tier and acquisition channel.
 
 ## Business Problem
 
